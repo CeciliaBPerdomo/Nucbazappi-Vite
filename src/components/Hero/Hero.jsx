@@ -8,7 +8,7 @@ const Hero = () => {
             <HeroTextContainerStyled>
                 <h1>Si tenes Zappi</h1>
                 <h2>tenes Nucba.</h2>
-                <p>Busca lo que quieras y Nucba te quedes sin comida</p>
+                <p>Busca lo que quieras y Nucba te lo lleva.</p>
                 <Button radius='15'>Ver más</Button>
             </HeroTextContainerStyled>
 
