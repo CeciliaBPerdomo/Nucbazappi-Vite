@@ -42,7 +42,7 @@ const Navbar = () => {
                     <MenuContainerStyled>
                         <IoMenuOutline />
                     </MenuContainerStyled>
-                    </motion.div>
+                </motion.div>
             </LinksContainerStyled>
         </NavbarContainerStyle>
     )
