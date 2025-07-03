@@ -11,7 +11,7 @@ const Footer = () => {
             </LinksContainerStyled>
 
             <p>
-                Hecho con ❤️ en <span> NUCBAZAPPI</span>
+                Hecho con ❤️ por <span> Cecilia Perdomo</span>
             </p>
 
         </FooterContainerStyled>
